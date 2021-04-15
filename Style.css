@@ -1,0 +1,75 @@
+body {
+	background: #43C6AC;
+	background: -webkit-linear-gradient(to top, #F8FFAE, #43C6AC);
+	background: linear-gradient(to top, #F8FFAE, #43C6AC);
+}
+
+div {
+
+	width: 48%;
+}
+
+#showParagraph1,
+#showParagraph2 {
+	margin: 20px;
+}
+
+.bt {
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	background-color: orange;
+	border: solid, 0px;
+	font-size: 20px;
+	color: whitesmoke;
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+
+input {
+	font-size: 14px;
+	height: 50px;
+	width: 500px;
+	text-align: left;
+	font-family: raleway;
+	font-weight: 400;
+	color: black;
+	padding-left: 10px;
+}
+
+.par {
+	font-size: 18px;
+	color: black;
+	font-family: raleway;
+	font-weight: 300;
+	text-align: justify;
+
+
+}
+
+.ft {
+	font-family: raleway;
+	font-weight: 400;
+}
+
+.ft2 {
+	font-family: raleway;
+}
+
+.bp {
+	background-color: rgba(255, 255, 255, 0.4);
+	width: 45%;
+	float: left;
+}
+
+.mdiv {
+	background-color: rgba(255, 255, 255, 0.6);
+	font-size: 30px;
+	font-family: raleway;
+	font-weight: 400;
+	width: 85% !important;
+	margin-bottom: 30px;
+	padding: 20px;
+	border-radius: 15px;
+}
